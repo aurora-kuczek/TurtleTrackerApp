@@ -9,7 +9,7 @@
 # Date:   Fall 2022
 #--------------------------------------------------------------
 
-#Create a variable pointing to the data file
+#Create a variable pointing to the data files
 file_name = 'data/raw/sara.txt'
 
 #Create a file object from the filename
